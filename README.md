@@ -1,4 +1,4 @@
-<h1>Hi I'm Nick, a <a href="https://nickgrassia.myportfolio.com">Graphic Designer </a>currently learning Information Technology / Software Engineering.</h1>
+<h1>Hi I'm Nick, a <a href="https://nickgrassia.myportfolio.com">Graphic Designer </a>learning Information Technology / Software Engineering.</h1>
 
 <h2>Information Technology Projects:</h2>
 
