@@ -10,6 +10,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ngrass3/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ngrass3/azure-network-protocols)
   - [Building intuition for DNS](https://github.com/ngrass3/building-Intuition-for-DNS)
+  - [Network File Shares and Permissions](https://github.com/ngrass3/network-file-shares-and-permissions)
 
 <h2>Connect with me:</h2>
 
