@@ -3,7 +3,7 @@
 <h2>Cybersecurity Projects:</h2>
 
 - <b>Detection & Response</b>
-  - [Capture, Filter & Inspect Packets](https://github.com/ngrass3/networktraffic)
+  - [Capture, Filter & Inspect Packets with Wireshark](https://github.com/ngrass3/wireshark-traffic)
 
 <h2>Information Technology Projects:</h2>
 
