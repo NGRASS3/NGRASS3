@@ -1,5 +1,10 @@
 <h1>Hi I'm Nick, a <a href="https://nickgrassia.myportfolio.com">Graphic Designer </a>learning Information Technology / Software Engineering / Cybersecurity.</h1>
 
+<h2>Cybersecurity Projects:</h2>
+
+- <b>Detection & Response</b>
+  - [Capture, Filter & Inspect Packets](https://github.com/ngrass3/osticket-prereqs)
+
 <h2>Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
