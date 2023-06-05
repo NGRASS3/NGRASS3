@@ -3,6 +3,7 @@
 <h2>Cybersecurity Projects:</h2>
 
 - <b>Detection & Response</b>
+  - [Examine alerts, logs, and rules with Suricata](https://github.com/ngrass3/suricata)
   - [Capture Network Traffic with tcpdump](https://github.com/ngrass3/tcpdump-traffic)
   - [Capture, Filter & Inspect Packets with Wireshark](https://github.com/ngrass3/wireshark-traffic)
 
