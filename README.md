@@ -1,10 +1,5 @@
 <h1>Hi I'm Nick, a <a href="https://nickgrassia.myportfolio.com">Graphic Designer </a>learning Information Technology / Software Engineering / Cybersecurity.</h1>
 
-<h2>Cybersecurity Projects:</h2>
-
-- <b>Detection & Response</b>
-  - [Capture Network Traffic with tcpdump](https://github.com/ngrass3/tcpdump-traffic)
-  - [Capture, Filter & Inspect Packets with Wireshark](https://github.com/ngrass3/wireshark-traffic)
 
 <h2>Information Technology Projects:</h2>
 
