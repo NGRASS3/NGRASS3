@@ -1,4 +1,4 @@
-<h1>Hi I'm Nick, an aspiring Cybersecurity professional.</h1>
+<h1>Nick | SOC Analyst L1.</h1>
 
 
 <h2>Information Technology Projects:</h2>
